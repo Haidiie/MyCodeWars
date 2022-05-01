@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d9d92f7-e06a-4f43-b704-4bcae818853f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/BinToDecimal/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/BinToDecimal/Details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/BinToDecimal/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/CatYearsDogYears/Details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/CatYearsDogYears/Dinglemouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/CatYearsDogYears/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/ConvertNumberToReversedArrayOfDigits/Details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/ConvertNumberToReversedArrayOfDigits/Kata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/ConvertNumberToReversedArrayOfDigits/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/RockPaperScissors/Kata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeWars/RockPaperScissors/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +50,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyDev\Test\MyCodeWars" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -94,7 +111,7 @@
       <updated>1651008027584</updated>
       <workItem from="1651008039547" duration="674000" />
       <workItem from="1651418169301" duration="3502000" />
-      <workItem from="1651422744393" duration="1954000" />
+      <workItem from="1651422744393" duration="2790000" />
     </task>
     <servers />
   </component>
